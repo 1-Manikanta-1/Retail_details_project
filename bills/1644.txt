@@ -1,0 +1,18 @@
+	 Welcome BSC Retails
+
+ Bill Number :		1644
+ Customer Name:		jhon
+  Phone Number:		12345678
+======================================
+
+ Product		 QTY		Price
+======================================
+apple		3		150
+mango		3		120
+orange		3		300
+grapes		5		150
+
+====================================
+Total Paybill Amount : 			720
+====================================
+
